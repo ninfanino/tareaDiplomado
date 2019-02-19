@@ -189,13 +189,14 @@ li.btn-menu:last-child {
 .header {
 	border-bottom:2px solid #000;
 	padding: 0px 10px;
-	margin-bottom: 10px;
+	margin-bottom: 30px;
 }
 .title {
 	color: #3A2C7C;
 	font-size: 24px;
 	display: inline-block;
 	line-height: 45px;
+
 }
 .title.text-center {
 	display: block;
